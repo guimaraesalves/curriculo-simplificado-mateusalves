@@ -108,6 +108,7 @@ section:last-child {
 	float: left;
 	width: 25%;
 	color: #cf8a05;
+	opacity: 0.5;
 }
 
 .sectionContent {
